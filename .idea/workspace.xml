@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="Added HW2">
+    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="Added HW3">
+      <change afterPath="$PROJECT_DIR$/Playground.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,15 +45,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hello World!.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.HW1.executor": "Run",
+    "Python.HW2.executor": "Run",
+    "Python.HW3.executor": "Run",
+    "Python.Hello World!.executor": "Run",
+    "Python.Playground.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -93,13 +96,22 @@
       <option name="project" value="LOCAL" />
       <updated>1724264169288</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added HW3">
+      <option name="closed" value="true" />
+      <created>1724868117954</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724868117954</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Added HW1" />
     <MESSAGE value="Added HW2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW2" />
+    <MESSAGE value="Added HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW3" />
   </component>
 </project>
