@@ -32,6 +32,18 @@ numList2 = [100, 150, 200, 250, 300]
 sum = numList1[0] + numList2[0] * numList1[4] * numList2[3] / numList1[3]
 print(sum)
 
+input("Would you like to hit the monster Zachy Poo?!~ (Yes or No)")
+
+
+if x == "No":
+    print("You run away.")
+
+elif x == "Yes":
+    print("You take a chance and swing your mega big and long sword")
+
+else:
+    print("he kills you because you did not attempt to flee or attack.")
+
 import random
 
 hitList = [1, 5, 10]
@@ -47,4 +59,4 @@ elif x == 5:
     print("Big Hit!")
 
 else:
-    print("Critical!!")
+    print("Critical!")
