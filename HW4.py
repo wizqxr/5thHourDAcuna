@@ -1,4 +1,4 @@
-#Name:Dominic Acuna
+#Name: Dominic Acuna
 #Class: 5th Hour
 #Assignment: HW4
 
@@ -48,4 +48,4 @@ fifthHour = {
 }
 
 #Print out the names of all three classmates on the same line
-print(fifthHour["student1"]["Name"]), print(fifthHour["student2"]["Name"]), print(fifthHour["student3"]["Name"])
+print(fifthHour["student1"]["Name"], fifthHour["student2"]["Name"], fifthHour["student3"]["Name"])
