@@ -98,7 +98,6 @@ elif x == "Yes":
     print(("The Black Wonder = "), enemyDict["The Black Wonder"]["Damage"], ("DP"))
 
 
-
 else:
     print("Error")
 
