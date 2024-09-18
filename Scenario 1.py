@@ -61,23 +61,23 @@ enemyDict = {
 print(enemyDict)
 
 #Damage change for Zacharious
-newDamageA = input("Enter new Damage Points for Zacharious: ")
+newDamageA = int(input("Enter new Damage Points for Zacharious: "))
 enemyDict["Zacharious"]["Damage"] = newDamageA
 
 #Damage change for The Great Gabrius
-newDamageB = input("Enter new Damage Points for The Great Gabrius: ")
+newDamageB = int(input("Enter new Damage Points for The Great Gabrius: "))
 enemyDict["The Great Gabrius"]["Damage"] = newDamageB
 
 #Damage change for Skibidi Jonques
-newDamageC = input("Enter new Damage Points for Skibidi Jonques: ")
+newDamageC = int(input("Enter new Damage Points for Skibidi Jonques: "))
 enemyDict["Skibidi Jonques"]["Damage"] = newDamageC
 
 #Damage change for Dommy Knocker
-newDamageD = input("Enter new Damage Points for Dommy Knocker: ")
+newDamageD = int(input("Enter new Damage Points for Dommy Knocker: "))
 enemyDict["Dommy Knocker"]["Damage"] = newDamageD
 
 #Damage change for The Black Wonder
-newDamageE = input("Enter new Damage Points for The Black Wonder: ")
+newDamageE = int(input("Enter new Damage Points for The Black Wonder: "))
 enemyDict["The Black Wonder"]["Damage"] = newDamageE
 
 #Printing the new changes
