@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="Added Scenario 1" />
+    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="Updated Scenario 1">
+      <change afterPath="$PROJECT_DIR$/Scenario 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,19 +45,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hello World!.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Playground.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.HW1.executor": "Run",
+    "Python.HW2.executor": "Run",
+    "Python.HW3.executor": "Run",
+    "Python.HW4.executor": "Run",
+    "Python.Hello World!.executor": "Run",
+    "Python.Playground.executor": "Run",
+    "Python.Scenario 1.executor": "Run",
+    "Python.Scenario 2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -167,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726595946844</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Updated Scenario 1">
+      <option name="closed" value="true" />
+      <created>1726681350793</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726681350793</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,7 +192,8 @@
     <MESSAGE value="Added HW4" />
     <MESSAGE value="Made Changes to HW4" />
     <MESSAGE value="Added Scenario 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scenario 1" />
+    <MESSAGE value="Updated Scenario 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Scenario 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
