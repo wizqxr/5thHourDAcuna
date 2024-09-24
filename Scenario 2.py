@@ -55,7 +55,7 @@ enemyDict = {
     "Damage" : 3,
     "Stamina" : 100,
     "Attack Effects" : "Stun"
-}
+},
 }
 #Test the damage here by subtracting a party member's damage from the enemy's health.
 difference = enemyDict["Zacharious"]["Health"] - partyDictionary[input("Choose a member of the Party.(LaeZel, Shadowheart, Gale, Astarion): ")]["Damage"]
