@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="added Scenario 2" />
+    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="Updated Scenario 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727201118888</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Updated Scenario 2">
+      <option name="closed" value="true" />
+      <created>1727201148181</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1727201148181</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -207,7 +217,8 @@
     <MESSAGE value="Added Scenario 1" />
     <MESSAGE value="Updated Scenario 1" />
     <MESSAGE value="added Scenario 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Scenario 2" />
+    <MESSAGE value="Updated Scenario 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Scenario 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
