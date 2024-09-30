@@ -4,12 +4,12 @@
 
 
 #Objectives
-
+import random
 #1. Print Hello World!
 print("Hello World!")
 
 #2. Create a variable named num and assign it a variable.
-num = 9
+num = random.randint(-100,100)
 
 #3. Create a nested if statement follows this structure:
 #If num is divisible by 2
