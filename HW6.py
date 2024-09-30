@@ -38,3 +38,19 @@ else:
         print(f"{num} is divisible by 3. The quotient is:", num / 3)
     else:
         print(f"{num} is not divisible by 2 or 3.")
+
+num1 = int(input("Pick a Number to divide by 2 and 3. "))
+if num1 % 2 == 0:
+    if num1 % 3 == 0:
+        print(f"{num1} is divisible by 2. The quotient is:", num1 / 2)
+        print(f"{num1} is divisible by 3. The quotient is:", num1 / 3)
+    else:
+        print(f"{num1} is not divisible by 3.")
+        print(f"{num1} is divisible by 2. The quotient is:", num1 / 2)
+else:
+    if num1 % 3 == 0:
+        print(f"{num1} is not divisible by 2.")
+        print(f"{num1} is divisible by 3. The quotient is:", num1 / 3)
+    else:
+        print(f"{num1} is not divisible by 2 or 3.")
+
