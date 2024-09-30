@@ -10,7 +10,7 @@ print("Hello World!")
 
 #2. Create a variable named num and assign it a variable.
 num = random.randint(-100,100)
-
+print("Your random number is:", num)
 #3. Create a nested if statement follows this structure:
 #If num is divisible by 2
 #   if num is divisible by 3
