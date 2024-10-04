@@ -28,9 +28,9 @@ else:
     print("Error, couldn't understand your answer. ")
 userName = input()
 
-if wifi == True:
-    if login == True:
-        if admin == True:
+if wifi:
+    if login:
+        if admin:
          print("Welcome",userName,"!")
          userValue += 1
          print("Online Users: ",userValue)
