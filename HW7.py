@@ -20,13 +20,16 @@ userValue = 0
 #is false, print an error message telling them which one they are "missing".
 x = input("Connect to Internet? ")
 
-if x == "No" or x == "no":
-    print("Goodbye! ")
-elif x == "Yes" or x == "yes":
+if x == "Yes" or x == "yes":
     print("Alright your connected! Enter your username! ")
+    userName = input()
+elif x == "No" or x == "no":
+    print("Goodbye. ")
+    exit()
 else:
     print("Error, couldn't understand your answer. ")
-userName = input()
+    exit()
+
 
 if wifi:
     if login:
