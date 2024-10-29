@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="Added HW9">
-      <change afterPath="$PROJECT_DIR$/HW10.py" afterDir="false" />
+    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="Added HW10">
+      <change afterPath="$PROJECT_DIR$/HW11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
   "keyToString": {
     "Python.HW1.executor": "Run",
     "Python.HW10.executor": "Run",
+    "Python.HW11.executor": "Run",
     "Python.HW2.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
@@ -307,7 +308,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729792839139</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Added HW10">
+      <option name="closed" value="true" />
+      <created>1730224944099</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1730224944099</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -342,7 +351,8 @@
     <MESSAGE value="Added Scenario 3.py" />
     <MESSAGE value="Added HW8" />
     <MESSAGE value="Added HW9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW9" />
+    <MESSAGE value="Added HW10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
