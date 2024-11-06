@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="Added HW10">
-      <change afterPath="$PROJECT_DIR$/HW11.py" afterDir="false" />
+    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="Added HW11">
+      <change afterPath="$PROJECT_DIR$/HW12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PONG V2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PONG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pokemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TRON.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW10.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW11.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/Playground.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +57,7 @@
     "Python.HW1.executor": "Run",
     "Python.HW10.executor": "Run",
     "Python.HW11.executor": "Run",
+    "Python.HW12.executor": "Run",
     "Python.HW2.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
@@ -59,11 +67,16 @@
     "Python.HW8.executor": "Run",
     "Python.HW9.executor": "Run",
     "Python.Hello World!.executor": "Run",
+    "Python.PONG V2.executor": "Run",
+    "Python.PONG.executor": "Run",
     "Python.Playground.executor": "Run",
+    "Python.Pokemon.executor": "Run",
     "Python.Scenario 1.executor": "Run",
     "Python.Scenario 2.executor": "Run",
     "Python.Scenario 3.1.executor": "Run",
     "Python.Scenario 3.executor": "Run",
+    "Python.TRON.executor": "Run",
+    "Python._pydev_execfile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -316,7 +329,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730224944099</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Added HW11">
+      <option name="closed" value="true" />
+      <created>1730225918912</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1730225918912</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,17 +373,7 @@
     <MESSAGE value="Added HW8" />
     <MESSAGE value="Added HW9" />
     <MESSAGE value="Added HW10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW10" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Playground.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Added HW11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW11" />
   </component>
 </project>

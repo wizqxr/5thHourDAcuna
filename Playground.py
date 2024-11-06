@@ -60,3 +60,5 @@ elif x == 5:
 
 else:
     print("Critical!")
+
+

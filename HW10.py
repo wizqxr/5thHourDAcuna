@@ -34,10 +34,10 @@ while r != 0:
 
 #EXTRA STUFF
 
-r = random.randint(0,10)
+j = random.randint(0,10)
 
-while r != 0:
+while j != 0:
     time.sleep(0.2)
-    print(r)
-    r = random.randint(0,10)
+    print(j)
+    j = random.randint(0,10)
 

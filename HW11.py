@@ -14,7 +14,7 @@ import time
 
 i = 0
 while i <= 100:
-    time.sleep(0.4)
+    time.sleep(0.4 )
     i += 1
     if i % 3 == 0 and i % 5 == 0:
         print("FizzBuzz")
