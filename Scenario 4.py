@@ -24,10 +24,11 @@ while i < players:
     starRating = int(input("Enter a star rating between 1 and 5."))
     if starRating > 5 or starRating < 1:
         i -= 1
-        print("ERROR, please choose a star rating of 1-5.")
+        print("ERROR, put a invalid rating.")
         continue
     else:
         sum = sum + starRating
 
-print(sum / players)
+print(sum / players, "Points, wow!")
+
 
