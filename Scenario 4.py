@@ -14,6 +14,11 @@ import random
 players = int(input("Enter a number of players."))
 sum = 0
 i = 0
+
+if players < 3:
+    print("Not enough players. Waiting for more players.")
+    exit()
+
 while i < players:
     i += 1
     starRating = int(input("Enter a star rating between 1 and 5."))
