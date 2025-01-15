@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="Made Changes to Scenario 4">
-      <change afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scenario 5.py" afterDir="false" />
+    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="HW15">
+      <change afterPath="$PROJECT_DIR$/HW16.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +54,7 @@
     "Python.HW13.executor": "Run",
     "Python.HW14.executor": "Run",
     "Python.HW15.executor": "Run",
+    "Python.HW16.executor": "Run",
     "Python.HW2.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
@@ -77,13 +77,14 @@
     "Python._pydev_execfile.executor": "Run",
     "Python.jkdsjkl.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -392,7 +393,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732128475988</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="HW15">
+      <option name="closed" value="true" />
+      <created>1736881825688</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1736881825688</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,7 +416,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added HW1" />
     <MESSAGE value="Added HW2" />
     <MESSAGE value="Added HW3" />
     <MESSAGE value="Added Playground" />
@@ -432,6 +440,7 @@
     <MESSAGE value="Added HW13 and HW14" />
     <MESSAGE value="Added Scenario 4" />
     <MESSAGE value="Made Changes to Scenario 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made Changes to Scenario 4" />
+    <MESSAGE value="HW15" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW15" />
   </component>
 </project>
