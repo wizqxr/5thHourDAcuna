@@ -1,5 +1,5 @@
 
-#Name:
+#Name: Dominic Acuna
 #Class: 5th Hour
 #Assignment: HW18
 import random
