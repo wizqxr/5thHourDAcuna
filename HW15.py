@@ -29,7 +29,3 @@ def print_numbers(n):
     print(i)
 
 #5. Call all of the functions created in 1 - 4 with relevant arguments.
-hello_world()
-calculate_average(random.randint(1, 100), random.randint(1, 100), random.randint(1, 100))
-animal_list("Dog", "Cat", "Pig", "Horse", "Zach")
-print_numbers(5)
