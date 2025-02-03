@@ -28,5 +28,4 @@ for _ in range(6):
 print("Character Stats:", stats)
 
 
-average = sum(stats) / len(stats)
-print(f"Average Stat: {average:.2f}")
+
