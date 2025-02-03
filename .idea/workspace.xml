@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="HW19">
-      <change afterPath="$PROJECT_DIR$/HW19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scenario 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scenario6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +77,8 @@
     "Python.Scenario 3.1.executor": "Run",
     "Python.Scenario 3.executor": "Run",
     "Python.Scenario 4.executor": "Run",
+    "Python.Scenario 6.executor": "Run",
+    "Python.Scenario 7.executor": "Run",
     "Python.TRON.executor": "Run",
     "Python._pydev_execfile.executor": "Run",
     "Python.jkdsjkl.executor": "Run",
@@ -445,7 +447,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738348876218</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="HW19">
+      <option name="closed" value="true" />
+      <created>1738349171592</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1738349171592</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
