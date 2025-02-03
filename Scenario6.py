@@ -17,15 +17,21 @@ def roll_stat():
     rolls.sort(reverse=True)
     return sum(rolls[:3])
 
-
-stats = []
-
-
-for _ in range(6):
-    stats.append(roll_stat())
+for i in range(6):
+    stats = []
 
 
-print("Character Stats:", stats)
+    for _ in range(6):
+        stats.append(roll_stat())
+
+    stats.sort(reverse=True)
+
+
+
+    print(f"Set {i + 1} Stats:", stats)
+
+    first_three_sum = sum(stats[:3])
+    print(f"Sum of the first three stats: {first_three_sum}")
 
 
 
