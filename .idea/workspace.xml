@@ -471,7 +471,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738608722227</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Added Scenario 6 and Scenario 7">
+      <option name="closed" value="true" />
+      <created>1738609936127</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1738609936127</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

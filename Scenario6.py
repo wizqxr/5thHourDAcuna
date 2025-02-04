@@ -11,27 +11,20 @@ import random
 
 #Once that is done, to ensure that the average of the statblock is fair (somewhere roughly between 12-13), he wants you
 #to plug it into a calculator (Scenario 7) and print the average.
+stats = []
 
 def roll_stat():
-    rolls = [random.randint(1, 6) for _ in range(4)]
-    rolls.sort(reverse=True)
-    return sum(rolls[:3])
+    for i in range(6):
+        rolls = [random.randint(1, 6), random.randint(1, 6), random.randint(1, 6), random.randint(1, 6)]
+        rolls.sort(reverse=True)
+        sum = rolls[0] + rolls[1] + rolls[2]
+        stats.append(sum)
 
-for i in range(6):
-    stats = []
-
-
-    for _ in range(6):
-        stats.append(roll_stat())
-
-    stats.sort(reverse=True)
+roll_stat()
+print(stats)
 
 
 
-    print(f"Set {i + 1} Stats:", stats)
-
-    first_three_sum = sum(stats[:3])
-    print(f"Sum of the first three stats: {first_three_sum}")
 
 
 

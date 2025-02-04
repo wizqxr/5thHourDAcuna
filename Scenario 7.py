@@ -13,5 +13,3 @@ def final_average():
     return listAverage
 
 final_average()
-
-print(listAverage)
