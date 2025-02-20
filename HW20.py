@@ -5,7 +5,7 @@
 
 #1. Create a try catch that tries to print variable x (which has no value), but prints "Hello World!" instead.
 try:
-    print(l)
+    print(q)
 except:
     print("Hello World!")
 
