@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="Added HW23">
-      <change afterPath="$PROJECT_DIR$/Scenario 8.py" afterDir="false" />
-    </list>
+    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="Added Scenario 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +81,7 @@
     "Python.Scenario 4.executor": "Run",
     "Python.Scenario 6.executor": "Run",
     "Python.Scenario 7.executor": "Run",
+    "Python.Scenario 8.executor": "Run",
     "Python.Scenario6.executor": "Run",
     "Python.TRON.executor": "Run",
     "Python._pydev_execfile.executor": "Run",
@@ -107,14 +106,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723830591861</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Added HW4">
-      <option name="closed" value="true" />
-      <created>1726164643189</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1726164643189</updated>
     </task>
     <task id="LOCAL-00009" summary="Made Changes to HW4">
       <option name="closed" value="true" />
@@ -500,7 +491,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741630227285</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Added Scenario 8">
+      <option name="closed" value="true" />
+      <created>1741714708538</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1741714708538</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -515,7 +514,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added HW6" />
     <MESSAGE value="Updated HW6" />
     <MESSAGE value="Added HW7" />
     <MESSAGE value="Updated HW7" />
@@ -540,6 +538,7 @@
     <MESSAGE value="added hw21" />
     <MESSAGE value="added hw22" />
     <MESSAGE value="Added HW23" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW23" />
+    <MESSAGE value="Added Scenario 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scenario 8" />
   </component>
 </project>
