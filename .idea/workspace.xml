@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="Added Scenario 8" />
+    <list default="true" id="8dd4268f-87fa-4202-acc0-0073e2cbfffd" name="Changes" comment="added edits to hw22">
+      <change afterPath="$PROJECT_DIR$/HW24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,14 +109,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723830591861</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Made Changes to HW4">
-      <option name="closed" value="true" />
-      <created>1726165001689</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1726165001689</updated>
     </task>
     <task id="LOCAL-00011" summary="Added Scenario 1">
       <option name="closed" value="true" />
@@ -499,7 +494,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741714786172</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="added edits to hw22">
+      <option name="closed" value="true" />
+      <created>1742838876975</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1742838876975</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -514,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated HW6" />
     <MESSAGE value="Added HW7" />
     <MESSAGE value="Updated HW7" />
     <MESSAGE value="Added Scenario 3.py" />
@@ -539,6 +541,7 @@
     <MESSAGE value="added hw22" />
     <MESSAGE value="Added HW23" />
     <MESSAGE value="Added Scenario 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scenario 8" />
+    <MESSAGE value="added edits to hw22" />
+    <option name="LAST_COMMIT_MESSAGE" value="added edits to hw22" />
   </component>
 </project>
